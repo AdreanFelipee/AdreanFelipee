@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Felipe Adrean</h1>
+<h1 align="center">Olá 👋, eu sou Felipe Adrean</h1>
 <h3 align="center">Entusiasta e apaixonado pelo desenvolvimento de software</h3>
 
 - 🌱 Atualmente estou aprendendo **Desenvolvimento Web FullStack, como também Inteligência Artificial**
