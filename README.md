@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Felipe Adrean</h1>
 <h3 align="center">Entusiasta e apaixonado pelo desenvolvimento de software</h3>
 
-- 🌱 Programador com habilidades em JavaScript, HTML, CSS, Sass, Bootstrap, React, Java e SQL. Habilidades em desenvolvimento de aplicações web interativas, criação de layouts responsivos, uso de frameworks como Bootstrap e React. Conhecimento em programação orientada a objetos e padrões de projetos com Java. Familiaridade com manipulação de bancos de dados relacionais usando SQL**
+- 🌱 Programador com habilidades em JavaScript, HTML, CSS, Sass, Bootstrap, React, Java e SQL. Habilidades em desenvolvimento de aplicações web interativas, criação de layouts responsivos, uso de frameworks como Bootstrap e React. Conhecimento em programação orientada a objetos e padrões de projetos com Java. Familiaridade com manipulação de bancos de dados relacionais usando SQL.
 
 - 📫 Você me acha no e-mail **felipeadrean@gmail.com**
 
